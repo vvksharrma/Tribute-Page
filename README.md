@@ -23,7 +23,7 @@ For ex,
 _This is just a suggestion, you can design it as per your liking._
 
 ### Learning Resources
-- [Introduction to Open Soure](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
+- [Introduction to Open Source](https://www.digitalocean.com/community/tutorial_series/an-introduction-to-open-source)
 _You may require this article if you have zero knowledge of open source & github._
 
 _Good Luck_
