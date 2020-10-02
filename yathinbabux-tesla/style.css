@@ -1,0 +1,39 @@
+/*
+    Created By :Yathin Babu N
+    Date: 28 May 2019
+    All Rights Reserved.
+*/
+body {
+    font-family: 'Muli', sans-serif;	
+}
+
+#title {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin: 0px;
+    width: 100%;
+    z-index: 999;
+    background-color: #fff;
+    padding: 20px 0px 20px 20px;
+    border-bottom: 1px solid #EEEEEE;
+}
+
+#img-div {
+    margin-top: 100px;
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+#tribute-info {
+    padding: 10px;
+}
+
+#tribute-info h2, p {
+    text-align: center;
+}
