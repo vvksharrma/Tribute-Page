@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&family=Poppins:wght@400;500;700&display=swap');
+
+:root {
+  --bg-clr: #e3cda4;
+  --secondary-clr: #f2f2f2;
+  --main-text: #2f343b;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+img {
+  width: 100%;
+  display: block;
+}
+
+.container {
+  margin: 0.625em auto;
+  width: 85%;
+  max-width: 1400px;
+  border-radius: 1.25em;
+  background-color: var(--bg-clr);
+  text-align: center;
+}
+
+.title {
+  font-size: 3em;
+  color: var(--main-text);
+  padding: 0.625em 0.625em 0.313em;
+  line-height: 0.9;
+}
+
+.text {
+  font-family: 'Roboto', sans-serif;
+  padding: 0 0.625em 0.625em;
+  color: var(--main-text);
+  font-style: italic;
+}
+
+.img-container {
+  margin: 1.25em auto 1.25em;
+  background-color: var(--secondary-clr);
+  object-fit: cover;
+}
+
+.img-caption {
+  padding: 1.25em;
+  font-family: 'Roboto', sans-serif;
+  font-weight: lighter;
+  font-size: 1em;
+}
+
+.tribute-info {
+  padding: 0 0.625em;
+}
+
+.tribute-info .subtitle {
+  font-size: 1.5em;
+  margin-bottom: 0.625em;
+}
+
+.tribute-info .list {
+  font-family: 'Roboto', sans-serif;
+  line-height: 1.65;
+  text-align: left;
+  max-width: 550px;
+  margin: 0 auto;
+}
+
+.tribute-info .list span {
+  font-weight: bold;
+}
+
+.wikipedia {
+  padding: 1.25em 0.625em;
+}
+
+.wikipedia a {
+  text-decoration: none;
+  color: var(--secondary-clr);
+}
