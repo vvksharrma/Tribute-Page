@@ -1,0 +1,20 @@
+
+body{
+  background-image:url('http://www.publicdomainpictures.net/pictures/130000/velka/night-sky-background-14391263141jp.jpg');
+  width:100%;
+  height:auto;
+  background-size:cover;
+	padding-top: 60px;
+}
+h2{
+  text-align:center;
+  padding-top:20%;
+}
+img{
+  border-color:white;
+  border-style: solid;
+  border-width:2px;
+  border-radius:2%;
+  max-width: 100%;
+  height:auto;
+}
