@@ -1,0 +1,125 @@
+body{
+	background-color: #121212;
+	color: white;
+}
+header{
+/*	background-color: green;*/
+	height: 16vh;
+}
+#a{
+	font-size:250%;
+	text-align: center;
+/*	background-color: red;*/
+/*	color:#16e02b;*/
+	color: red;
+}
+nav a{
+	display: inline-block;
+	text-decoration: none;
+	color: white;
+	font-size: 140%;
+	margin-left: 11%;
+/*	color:#d4910b;*/
+	color:#16e02b;
+}
+nav a:hover{
+	color: red;
+}
+#intro{
+	height: 80vh;
+/*	background-color: red;*/
+}
+img{
+	display: inline-block;
+	width: 30%;
+	height: 96%;
+	float: left;
+	margin-left: 2%;
+}
+#brief{
+	width: 67%;
+	height: 100%;
+	display: inline-block;
+/*	background-color: blue;*/
+	font-size: 160%;
+}
+#brief p{
+/*	background-color: green;*/
+	width: 60%;
+	margin-top: 13%;
+	margin-left: 25%;
+	line-height: 140%;
+/*	color:#0dd0de;*/
+}
+#who_he_is{
+	height: 100vh;
+}
+#b{
+	color: red;
+	text-align: center;
+/*	background-color: blue;*/
+
+}
+#who_he_is p{
+	font-size: 150%;
+/*	background-color: green;*/
+	line-height: 150%;
+	width: 90%;
+	margin:0 auto;
+}
+#education{
+	height: 100vh;
+}
+#c{
+	color: red;
+	text-align: center;
+}
+#education p{
+	font-size: 150%;
+/*	background-color: green;*/
+	line-height: 150%;
+	width: 90%;
+	margin:0 auto;
+}
+#movements{
+	height: 100vh;
+}
+#d{
+	color: red;
+	text-align: center;
+}
+#movements p{
+	font-size: 150%;
+/*	background-color: green;*/
+	line-height: 150%;
+	width: 90%;
+	margin:0 auto;
+}
+#literary{
+	height: 100vh;
+}
+#e{
+	color: red;
+	text-align: center;
+}
+#literary p{
+	font-size: 150%;
+/*	background-color: green;*/
+	line-height: 150%;
+	width: 90%;
+	margin:0 auto;
+}
+#death{
+	height: 100vh;
+}
+#f{
+	color: red;
+	text-align: center;
+}
+#death p{
+	font-size: 150%;
+/*	background-color: green;*/
+	line-height: 150%;
+	width: 90%;
+	margin:0 auto;
+}
