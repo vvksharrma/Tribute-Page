@@ -1,0 +1,60 @@
+.heading{
+    font-family: open sans, sans-serif;
+    font-weight: 100;
+    font-size: 50px;
+    text-align: center;
+}
+
+.header{
+    display: block;
+    align-self: center;
+    width: inherit;
+    margin: 20px 30px 20px 30px;
+}
+
+.well{
+    background-color: #fff !important;
+}
+
+.container-fluid{
+    background-color: #808080 !important;
+}
+
+.img-responsive{
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+p{
+    font-family: roboto, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+a{
+    font-family: roboto, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding-top: 20px;  
+    text-decoration: none !important;
+}
+
+hr{
+    border-width: 1px !important;
+    border-style: inset !important;
+}
+
+.points{
+    font-family: roboto, sans-serif;
+    font-size: 20px;
+}
+
+footer{
+    text-align: center;
+    font-family: Roboto, sans-serif;
+    font-size: 22px;
+    margin-top: 10px;
+    font-weight: 300;
+    max-width: 100%;
+}
